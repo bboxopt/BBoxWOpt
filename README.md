@@ -49,6 +49,7 @@
 - Tương thích với Windows 7, 8 / 8.1, 10, 11
 
 © **Bản quyền:**
+- Chủ project và team này thuộc về: https://github.com/NamOpt
 - Bản quyền thuộc về ©Bbox omega AIO 2024
 - Bất cứ công ty hay tổ chức nào(cả công ty mẹ) vi phạm sẽ bị khóa tất cả phiên bản của công ty hay tổ chức đó
 
