@@ -48,6 +48,10 @@
 💻 **Khả năng tương thích:**
 - Tương thích với Windows 7, 8 / 8.1, 10, 11
 
+© **Bản quyền:**
+- Bản quyền thuộc về ©Bbox omega AIO 2024
+- Bất cứ công ty hay tổ chức nào(cả công ty mẹ) vi phạm sẽ bị khóa tất cả phiên bản của công ty hay tổ chức đó
+
 **Làm bằng *nhiệt huyết* và *tình yêu*❤️**
 
 # Liên hệ khi có lỗi / Contact me
@@ -59,4 +63,4 @@
 
 **Số điện thoại:**
 - Số điện thoại / Zalo cho **OptimizedTools** ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
-- Số điện thoại cho **BBox**: 0931674720
+- Số điện thoại / Zalo cho **BBox**: (nhắn lỗi, có thể gọi, nếu spam sẽ bị block vĩnh viễn)0931674720
