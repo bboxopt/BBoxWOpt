@@ -10,13 +10,13 @@
 
 ⚒️ **Về phát triển và xây dựng phần mềm:**
 - Về nguồn: Tải file rar từ sources.
-❔ **Về thông tin của phần mềm**
 
+❔ **Về thông tin của phần mềm**
 - Chào mừng bạn đến với BBox, một tiện ích cấu hình và thử nghiệm đơn giản (làm tác vụ đơn giản) và tùy biến Windows cao với OptimizedTools: https://github.com/NamOpt/OptimizedTools
 
 ❗ **Về trách nhiệm**
-- CẢNH BÁO với OptimizedTools: Tôi KHÔNG chịu trách nhiệm về những gì có thể xảy ra với hệ thống của bạn! Trước khi chạy các tập lệnh, hãy chạy "Restore point" để tạo điểm sao lưu. Chạy các tập lệnh cẩn thận.
-- CẢNH BÁO với BBox: ĐỪNG XÓA CÁC THƯ MỰC CŨNG NHƯ LÀ TẬP TIN (đặc biệt là tập tin có đuôi .vhd). NẾU KHÔNG, SẼ KHIẾN BBOX KHÔNG CHẠY ĐƯỢC.
+- CẢNH BÁO với **OptimizedTools**: Tôi KHÔNG chịu trách nhiệm về những gì có thể xảy ra với hệ thống của bạn! Trước khi chạy các tập lệnh, hãy chạy "Restore point" để tạo điểm sao lưu. Chạy các tập lệnh cẩn thận.
+- CẢNH BÁO với **BBox**: ĐỪNG XÓA CÁC THƯ MỰC CŨNG NHƯ LÀ TẬP TIN (đặc biệt là tập tin có đuôi .vhd). NẾU KHÔNG, SẼ KHIẾN BBOX KHÔNG CHẠY ĐƯỢC.
 
 💾 **Công cụ kèm theo OptimizedTools:**
 - **Optimizer** của hellzerg: https://github.com/hellzerg/optimizer
@@ -58,5 +58,5 @@
 [![ver](https://img.shields.io/badge/ytb%3A_NamCzE-gray?style=flat&logo=youtube)](https://www.youtube.com/channel/UCGq0DDujQ9TynsGGLvfu-IA)
 
 **Số điện thoại:**
-- Số điện thoại / Zalo cho OptimizedTools ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
-- Số điện thoại cho BBox: 0931674720
+- Số điện thoại / Zalo cho **OptimizedTools** ( chỉ nhắn lỗi, không gọi, nếu gọi trên Zalo và cả điện thoại sẽ bị block vĩnh viễn ): 0931981731 
+- Số điện thoại cho **BBox**: 0931674720
