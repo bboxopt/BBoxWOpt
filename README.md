@@ -32,7 +32,7 @@
 - Giải nén chương trình này bằng 7-Zip hoặc WinRar.
 - Khi giải nén xong bạn mở thư mục vừa giải nén ra, chạy file "Bbox omega.cmd".
 
-❎ **Những thứ đã bị xóa trong OptimizedTools (bao gồm test bulids):
+❎ **Những thứ đã bị xóa trong OptimizedTools (bao gồm test bulids):**
 - **Microsoft Activation Scripts**
 - **Tools / Restore health for Windows**
 
