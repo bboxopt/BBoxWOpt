@@ -9,7 +9,7 @@
 
 
 ⚒️ **Về phát triển và xây dựng phần mềm:**
-- Về nguồn: Tải file rar từ sources.
+- Về nguồn: Tải file zip từ sources.
 
 ❔ **Về thông tin của phần mềm**
 - Chào mừng bạn đến với BBox, một tiện ích cấu hình và thử nghiệm đơn giản (làm tác vụ đơn giản) và tùy biến Windows cao với OptimizedTools: https://github.com/NamOpt/OptimizedTools
