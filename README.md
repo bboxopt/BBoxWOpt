@@ -15,8 +15,9 @@
 - Chào mừng bạn đến với BBox, một tiện ích cấu hình và thử nghiệm đơn giản (làm tác vụ đơn giản) và tùy biến Windows cao với OptimizedTools: https://github.com/NamOpt/OptimizedTools
 
 ❗ **Về trách nhiệm**
-- CẢNH BÁO với **OptimizedTools**: Tôi KHÔNG chịu trách nhiệm về những gì có thể xảy ra với hệ thống của bạn! Trước khi chạy các tập lệnh, hãy chạy "Restore point" để tạo điểm sao lưu. Chạy các tập lệnh cẩn thận.
-- CẢNH BÁO với **BBox**: ĐỪNG XÓA CÁC THƯ MỰC CŨNG NHƯ LÀ TẬP TIN (đặc biệt là tập tin có đuôi .vhd). NẾU KHÔNG, SẼ KHIẾN BBOX KHÔNG CHẠY ĐƯỢC.
+> [!CAUTION]
+> CẢNH BÁO với **OptimizedTools**: Tôi KHÔNG chịu trách nhiệm về những gì có thể xảy ra với hệ thống của bạn! Trước khi chạy các tập lệnh, hãy chạy "Restore point" để tạo điểm sao lưu. Chạy các tập lệnh cẩn thận.
+> CẢNH BÁO với **BBox**: ĐỪNG XÓA CÁC THƯ MỰC CŨNG NHƯ LÀ TẬP TIN (đặc biệt là tập tin có đuôi .vhd). NẾU KHÔNG, SẼ KHIẾN BBOX KHÔNG CHẠY ĐƯỢC.
 
 💾 **Công cụ kèm theo OptimizedTools:**
 - **Optimizer** của hellzerg: https://github.com/hellzerg/optimizer
