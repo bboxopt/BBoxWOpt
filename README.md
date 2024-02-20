@@ -1,5 +1,6 @@
 # BBox with / với OptimizedTools (AIO Tools)
-**NOTE: THIS PROJECT IS NOT SUPPORTED FOR ENGLISH** và **LƯU Ý: DỰ ÁN NÀY KHÔNG ĐƯỢC HỖ TRỢ CHO TIẾNG ANH**
+> [!NOTE]
+> **NOTE: THIS PROJECT IS NOT SUPPORTED FOR ENGLISH** và **LƯU Ý: DỰ ÁN NÀY KHÔNG ĐƯỢC HỖ TRỢ CHO TIẾNG ANH**
 
 # Status / trạng thái
 ![status](https://img.shields.io/badge/status-okay-blue)
