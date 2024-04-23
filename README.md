@@ -3,10 +3,9 @@
 > **NOTE: THIS PROJECT IS NOT SUPPORTED FOR ENGLISH** và **LƯU Ý: DỰ ÁN NÀY KHÔNG ĐƯỢC HỖ TRỢ CHO TIẾNG ANH**
 
 # Status / trạng thái
-![status](https://img.shields.io/badge/status-okay-blue)
+![status](https://img.shields.io/badge/status-development-yellow)
 [![ver](https://img.shields.io/badge/version-1.0.0_lastet-black)](https://github.com/bboxopt/BBoxWOpt/releases)
 ![code](https://img.shields.io/badge/code_quality-good%3A_B-green)
-![website](https://img.shields.io/badge/website_status-okay-blue)
 
 
 ⚒️ **Về phát triển và xây dựng phần mềm:**
